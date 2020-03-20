@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cbaddd2-1131-4144-ae1a-56cf181d7070" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mysql" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mysql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="service" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="mapper" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\maven\myLocalRepository" />
+        <option name="mavenHome" value="H:/maven/maven-3.5.3" />
+        <option name="userSettingsFile" value="H:\maven\maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VINOvEV8DLzx5Cvl6ftXtjqVNB" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mongo" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-manage-order/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14648438" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\xuecheng\service\testFramework\target\classes\templates" />
+      <recent name="H:\xuecheng\service\testFramework\src\test\resources\templates" />
+      <recent name="H:\xuecheng\service\testFramework\src\main\resources\templates" />
+      <recent name="H:\xuecheng\service\testFramework\src\test\resources" />
+      <recent name="H:\xuecheng\service\testFramework\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.order.config" />
+      <recent name="com.xuecheng.order.repository" />
+      <recent name="com.xuecheng.learning.repository" />
+      <recent name="com.xuecheng.learning.config" />
+      <recent name="com.xuecheng.ucenter.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\xuecheng\service\xc-service-manage-course\src\main\resources" />
+      <recent name="H:\xuecheng\service\testFramework\src\test\resources\templates" />
+      <recent name="H:\xuecheng\service\xc-service-manage-course\src\main\resources\com\xuecheng\manage_course\dao" />
+      <recent name="H:\xuecheng\service\xc-service-manage-cms-client\src\main\java\com\xuecheng\manage_cms_client\repository" />
+      <recent name="H:\xuecheng\service\xc-service-manage-cms\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageOrderApplication">
+    <configuration name="TestClient.testClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.TestClient" />
+      <option name="METHOD_NAME" value="testClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient.testPasswrodEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.TestClient" />
+      <option name="METHOD_NAME" value="testPasswrodEncoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOAuth.testVerify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.TestOAuth" />
+      <option name="METHOD_NAME" value="testVerify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOAuth.verifyJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.TestOAuth" />
+      <option name="METHOD_NAME" value="verifyJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedis.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-ucenter-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.auth.TestRedis" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-cms-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms_client.CmsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsService1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="cms">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage.CmsService" />
+      <option name="VM_PARAMETERS" value="-DPORT=31001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsService2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="cms">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage.CmsService" />
+      <option name="VM_PARAMETERS" value="-DPORT=31002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastDFSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-fastDFS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.fastDFS.FastDFSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-base-filesystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.filesystem.FileSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="testFramework" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.FreemarkTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-govern-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-learning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.learning.LearningApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-media" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_media.ManageMediaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMediaProcessorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-media-processor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_media_process.ManageMediaProcessorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.order.ManageOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMqConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-rabbitmq-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.rabbitMQ.RabbitMqConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMqProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-rabbit-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.RabbitMQ.RabbitMqProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.ucenter.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.auth.UcenterAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka">
+      <module name="xc-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=50101 -DEUREKA_SERVER=http://localhost:50102/eureka/ -DEUREKA_DOMAIN=eureka01" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka02 " type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka">
+      <module name="xc-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=50102 -DEUREKA_SERVER=http://localhost:50101/eureka/ -DEUREKA_DOMAIN=eureka02" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestOAuth.verifyJwt" />
+      <item itemvalue="JUnit.TestRedis.testRedis" />
+      <item itemvalue="JUnit.TestClient.testClient" />
+      <item itemvalue="JUnit.TestClient.testPasswrodEncoder" />
+      <item itemvalue="JUnit.TestOAuth.testVerify" />
+      <item itemvalue="Spring Boot.CmsService2" />
+      <item itemvalue="Spring Boot.CmsService1" />
+      <item itemvalue="Spring Boot.eureka02 " />
+      <item itemvalue="Spring Boot.eureka01" />
+      <item itemvalue="Spring Boot.FreemarkTestApplication" />
+      <item itemvalue="Spring Boot.RabbitMqConsumerApplication" />
+      <item itemvalue="Spring Boot.RabbitMqProducerApplication" />
+      <item itemvalue="Spring Boot.CmsClientApplication" />
+      <item itemvalue="Spring Boot.ManageCourseApplication" />
+      <item itemvalue="Spring Boot.FileSystemApplication" />
+      <item itemvalue="Spring Boot.FastDFSApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.ManageMediaApplication" />
+      <item itemvalue="Spring Boot.ManageMediaProcessorApplication" />
+      <item itemvalue="Spring Boot.LearningApplication" />
+      <item itemvalue="Spring Boot.UcenterAuthApplication" />
+      <item itemvalue="Spring Boot.UcenterApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ManageOrderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestOAuth.testVerify" />
+        <item itemvalue="JUnit.TestClient.testPasswrodEncoder" />
+        <item itemvalue="JUnit.TestClient.testClient" />
+        <item itemvalue="JUnit.TestRedis.testRedis" />
+        <item itemvalue="JUnit.TestOAuth.verifyJwt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="cms" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cbaddd2-1131-4144-ae1a-56cf181d7070" name="Default Changelist" comment="" />
+      <created>1576936620658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576936620658</updated>
+      <workItem from="1576936621877" duration="1003000" />
+      <workItem from="1576937721702" duration="7000" />
+      <workItem from="1576939819292" duration="672000" />
+      <workItem from="1576983243917" duration="1530000" />
+      <workItem from="1577022845606" duration="3761000" />
+      <workItem from="1577026641285" duration="1351000" />
+      <workItem from="1577106225720" duration="2649000" />
+      <workItem from="1578126202804" duration="1948000" />
+      <workItem from="1579677749686" duration="3455000" />
+      <workItem from="1580275465963" duration="11441000" />
+      <workItem from="1580364911633" duration="14524000" />
+      <workItem from="1580544729477" duration="21039000" />
+      <workItem from="1580695494939" duration="13503000" />
+      <workItem from="1580815980981" duration="833000" />
+      <workItem from="1580878346648" duration="4419000" />
+      <workItem from="1580957333928" duration="6175000" />
+      <workItem from="1580963778813" duration="4517000" />
+      <workItem from="1580973074438" duration="5404000" />
+      <workItem from="1581149225594" duration="7163000" />
+      <workItem from="1581407419898" duration="11769000" />
+      <workItem from="1581476324300" duration="7895000" />
+      <workItem from="1581495462458" duration="31000" />
+      <workItem from="1583116804422" duration="1804000" />
+      <workItem from="1583298245960" duration="18835000" />
+      <workItem from="1583379895792" duration="2075000" />
+      <workItem from="1583381989249" duration="250000" />
+      <workItem from="1583382252149" duration="1052000" />
+      <workItem from="1583389411035" duration="55614000" />
+      <workItem from="1583665268502" duration="1870000" />
+      <workItem from="1583731432040" duration="8459000" />
+      <workItem from="1583814926895" duration="4342000" />
+      <workItem from="1583984507733" duration="27850000" />
+      <workItem from="1584097349878" duration="1130000" />
+      <workItem from="1584100776276" duration="108000" />
+      <workItem from="1584150769342" duration="16700000" />
+      <workItem from="1584272077864" duration="4895000" />
+      <workItem from="1584356301541" duration="3592000" />
+      <workItem from="1584418773291" duration="18508000" />
+      <workItem from="1584503164539" duration="6555000" />
+      <workItem from="1584598468647" duration="8311000" />
+      <workItem from="1584681369866" duration="11738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="137" key="#Assign_Data_Sources" timestamp="1584685941287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="496" y="137" key="#Assign_Data_Sources/0.0.1536.864@0.0.1536.864" timestamp="1584685941287" />
+    <state x="361" y="94" key="#Notifications" timestamp="1583471623907">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1583471623907" />
+    <state x="361" y="94" key="#Project_Structure" timestamp="1580889516455">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1580889516455" />
+    <state x="474" y="362" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1584683532879">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="474" y="362" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.864@0.0.1536.864" timestamp="1584683532879" />
+    <state x="344" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583733031363">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="344" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583733031363" />
+    <state x="500" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584359316487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="500" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1584359316487" />
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1584685360803">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584685360803" />
+    <state x="590" y="127" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1577025965820">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="590" y="127" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1577025965820" />
+    <state x="365" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580546556530">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="365" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1580546556530" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584432309589">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1584432309589" />
+    <state x="549" y="125" key="FileChooserDialogImpl" timestamp="1584681912644">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="125" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584681912644" />
+    <state width="1024" height="446" key="GridCell.Tab.0.bottom" timestamp="1584693217681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584693217681" />
+    <state width="1024" height="446" key="GridCell.Tab.0.center" timestamp="1584693217681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584693217681" />
+    <state width="1024" height="446" key="GridCell.Tab.0.left" timestamp="1584693217681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584693217681" />
+    <state width="1024" height="446" key="GridCell.Tab.0.right" timestamp="1584693217681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584693217681" />
+    <state width="1024" height="446" key="GridCell.Tab.1.bottom" timestamp="1584693217682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584693217682" />
+    <state width="1024" height="446" key="GridCell.Tab.1.center" timestamp="1584693217681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1584693217681" />
+    <state width="1024" height="446" key="GridCell.Tab.1.left" timestamp="1584693217681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1584693217681" />
+    <state width="1024" height="446" key="GridCell.Tab.1.right" timestamp="1584693217682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1584693217682" />
+    <state width="1024" height="446" key="GridCell.Tab.2.bottom" timestamp="1584693217683">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584693217683" />
+    <state width="1024" height="446" key="GridCell.Tab.2.center" timestamp="1584693217683">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1584693217683" />
+    <state width="1024" height="446" key="GridCell.Tab.2.left" timestamp="1584693217683">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1584693217683" />
+    <state width="1024" height="446" key="GridCell.Tab.2.right" timestamp="1584693217683">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1024" height="446" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1584693217683" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1584685959316">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1584685959316" />
+    <state x="299" y="90" key="Maven.ArtifactSearchDialog" timestamp="1580546760597">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="90" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1580546760597" />
+    <state x="106" y="155" width="1302" height="709" key="SettingsEditor" timestamp="1584683534663">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="106" y="155" width="1302" height="709" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584683534663" />
+    <state x="553" y="244" width="429" height="397" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1577025491909">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="553" y="244" width="429" height="397" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.864@0.0.1536.864" timestamp="1577025491909" />
+    <state x="323" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584693025127">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="323" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1584693025127" />
+    <state x="390" y="28" width="755" height="807" key="find.popup" timestamp="1584685345006">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="390" y="28" width="755" height="807" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1584685345006" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1583396041649">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.864@0.0.1536.864" timestamp="1583396041649" />
+    <state x="338" y="230" key="new project wizard" timestamp="1583389031168">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="338" y="230" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1583389031168" />
+    <state x="425" y="197" width="672" height="677" key="run.anything.popup" timestamp="1584682719023">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1584682719022" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1584686244711">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1584686244711" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/mq/ChooseCourseTask.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-order/src/main/java/com/xuecheng/order/mq/ChooseCourseTask.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-learning/src/main/java/com/xuecheng/learning/mq/ChooseCourseTask.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="XBreakpointGroupingByPackageRule" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+</project>
